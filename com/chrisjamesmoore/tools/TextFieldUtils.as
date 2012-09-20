@@ -16,7 +16,7 @@ package com.chrisjamesmoore.tools {
 	 * @project
 	 * @producer
 	 * @langversion	ActionScript 3.0
-	 * @playerversion	Flash Player 9
+	 * @playerversion	Flash Player 10
 	 *
 	 * @history 1.0.0 (2011.04.18) Wrote initial version of TextFieldUtils.
 	 */
